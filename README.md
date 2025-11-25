@@ -4,7 +4,7 @@ This project contains a relational database schema for a **Simple Clinic Managem
 The goal is to model patients, doctors, appointments, medical records, prescriptions, and payments in a clean and normalized relational structure.
 
 ---
-![Clinic Relational Schema](clinic_relational_schema.png)
+![Clinic Relational Schema](Clinic_Relational_Schema.png)
 
 
 ## 📌 Project Overview
